@@ -1,0 +1,9 @@
+.searchBox{
+    text-align: center;
+    margin-bottom: 25px;
+}
+.schbtn{
+   display: inline-block;
+   margin-left: 1rem;
+   margin-top: 0.5rem;
+}
